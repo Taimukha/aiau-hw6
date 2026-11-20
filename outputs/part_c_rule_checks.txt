@@ -1,0 +1,13 @@
+PASS: Top boundary stays in place
+PASS: Left boundary stays in place
+PASS: Wall blocks movement
+PASS: Ice probabilities sum to 1
+PASS: Ice probabilities are 0.8, 0.1, 0.1
+PASS: Mud reward is -3
+PASS: Sand reward is -2
+PASS: Water reward is -5
+PASS: Goal reward is +10
+PASS: Hole reward is -10
+PASS: Goal has no outgoing transitions
+PASS: Hole has no outgoing transitions
+PASS: Blocked move uses current tile reward
